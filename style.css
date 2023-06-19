@@ -1,0 +1,44 @@
+/* style.css */
+/* Global styles */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+/* Header styles */
+header {
+  background-color: blueviolet;
+  color: black;
+  padding: 30px;
+}
+
+header h1 {
+  margin: 0;
+}
+
+/* navigation styles */
+nav {
+  background-color: aqua;
+  padding: 10px;
+}
+
+nav ul li a {
+  color: brown;
+  text-decoration: none;
+  padding: 10px;
+}
+/* section styles */
+section {
+  padding: 20px;
+}
+
+section h2 {
+  color: chocolate;
+}
+/* footer styles */
+footer {
+  background-color: bisque;
+  color: chartreuse;
+  padding: 10px;
+  text-align: center;
+}
